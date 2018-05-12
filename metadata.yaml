@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43441
     wikipedia: https://en.wikipedia.org/wiki/Louis_Auguste_Barb%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45766#In-Byways-of-Scottish-History
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
