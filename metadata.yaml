@@ -1,0 +1,35 @@
+_repo: In-Byways-of-Scottish-History_45766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45766-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Barbé, Louis A.
+    alias: Barbe, Louis A.
+    birthdate: 1845
+    deathdate: 1926
+    gutenberg_agent_id: '43441'
+    url: http://www.gutenberg.org/2009/agents/43441
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Auguste_Barb%C3%A9
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Scotland -- History -- Stuarts, to the Union, 1371-1707'
+tableOfContents: 'Mary, queen of Scots -- The four Marys -- Mary Fleming -- Mary Livingston
+  -- Mary Beton -- Mary Seton -- The song of Mary Stuart -- Maister Randolphe''s fantasie
+  -- The first "Stuart" tragedy and its author -- Loretto -- The Isle of May -- Edinburgh
+  and her patron saint -- The rock of Dumbarton -- James VI as statesman and poet
+  -- The invasion of Ailsa Craig -- The story of a ballad: "Kinmont Willie" -- A raid
+  on the Wee Cumbrae -- Riotous Glasgow -- The old Scottish army -- The story of the
+  "long-tail" myth -- Index.'
+title: In Byways of Scottish History
+url: http://www.gutenberg.org/ebooks/45766
